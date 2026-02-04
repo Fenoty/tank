@@ -1,0 +1,18 @@
+@import url('font.css');
+
+:root{
+    font-size: 16px;
+}
+body {
+    background-color: rgb(18, 18, 20);
+    font-family: "Inter", sans-serif;
+}
+.wrapper {
+    max-width: 77rem;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+.card-shadow {
+    background: linear-gradient(270.00deg, rgba(32, 37, 37, 1) 0%,rgba(0, 0, 0, 1) 100%);
+}
+
